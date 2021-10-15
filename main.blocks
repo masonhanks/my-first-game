@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="A~wtB=I^i+,ttj50+(l0">mySprite</variable><variable type="KIND_SpriteKind" id="?1jm=GgaW0HK$*rvTP0}">Player</variable><variable type="KIND_SpriteKind" id="YlHHNv$uPMNM(g3-`wH?">Projectile</variable><variable type="KIND_SpriteKind" id="%/V]hD=r%G$O$)6p^mmD">Food</variable><variable type="KIND_SpriteKind" id="^a,ITcjDr%GJT}q:ykox">Enemy</variable></variables><block type="pxt-on-start" id="7x+vfy^uZAT32U!}VD_u" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="]P+Y#Tnf#r}h-t07[|7;"><field name="VAR" id="A~wtB=I^i+,ttj50+(l0">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="+]RYcz]6-CcV[:|CA={Q"><value name="img"><shadow type="screen_image_picker" id="01`ZD$0KQ.}0$frD,UF%"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"01`ZD$0KQ.}0$frD,UF%"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="hLk?7g1..wR,v_+8EvRN"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="spritesaytext" id="WsfPj.Qc4:K2r[s//?2b"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="this"><block type="variables_get" id="2$cCc^|2p#Q?=^~1syxL"><field name="VAR" id="A~wtB=I^i+,ttj50+(l0">mySprite</field></block></value><value name="text"><shadow type="text" id="RdBUS3zv:St5R2Wkxf8G"><field name="TEXT">:)</field></shadow></value></block></next></block></statement></block></xml>
